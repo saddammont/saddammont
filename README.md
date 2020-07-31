@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**saddammont/saddammont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my github profile! 🥳
 
-Here are some ideas to get you started:
+I'm a Front-end web developer from Nicaragua, passionate about learning and sharing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡️Skills
+✓ <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/html5.png" width="14"> HTML <br>
+✓ <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/css.jpg" width="12"> CSS <br>
+✓ <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/js.png" width="12"> Javascript <br>
+
+
+## 📚Studying
+→ <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/react.png" width="12"> React JS <br>
+
+
+## 🖤 I really enjoy
+👨🏽‍💻 Coding <br>
+🎸 Playing guitar <br>
+🎤 Singing <br>
