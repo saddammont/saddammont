@@ -2,7 +2,9 @@
 
 Welcome to my github profile! 🥳
 
-I'm a Front-end web developer from Nicaragua, passionate about learning and sharing.
+I'm a Front-end web developer from Nicaragua, passionate about learning and sharing.<br>
+
+![](https://miro.medium.com/max/700/0*sN7Gh-sRDm_o678f.gif)
 
 ## ⚡️Skills
 ✓ <img src="https://github.com/saddammont/saddammont/blob/master/github/html5.png" width="14"> HTML <br>
