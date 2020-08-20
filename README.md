@@ -19,3 +19,5 @@ I'm a Front-end web developer from Nicaragua, passionate about learning and shar
 ## 🖤 I really enjoy
 👨🏽‍💻 Coding <br>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saddammont&show_icons=true) 
+
