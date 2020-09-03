@@ -10,11 +10,11 @@ I'm a Front-end web developer from Nicaragua, passionate about learning and shar
  ✓ <img src="https://github.com/saddammont/saddammont/blob/master/github/html5.png" width="14"> HTML <br>
  ✓ <img src="https://github.com/saddammont/saddammont/blob/master/github/css.jpg" width="12"> CSS <br>
  ✓ <img src="https://github.com/saddammont/saddammont/blob/master/github/js.png" width="12"> Javascript <br>
+ ✓ :computer::calling: Responsive Design<br>
 
 
 # 📚Studying
  → <img src="https://github.com/saddammont/saddammont/blob/master/github/react.png" width="12"> React JS <br>
- → :computer::calling: Responsive Design<br>
  → :desktop_computer: Wordpress<br>
 
 
