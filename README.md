@@ -2,7 +2,8 @@
 
 Welcome to my github profile! 🥳
 
-I'm a Front-end web developer from Nicaragua, passionate about learning and sharing.<br>
+I am a specialized programmer specifically dedicated to developing World Wide Web applications or distributed network applications that run via HTTP from a web server to a web browser.
+<br>
 
 ![](https://miro.medium.com/max/700/0*sN7Gh-sRDm_o678f.gif)
 
